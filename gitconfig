@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = capparelli.lucas@gmail.com
+	name = lucas capparelli
